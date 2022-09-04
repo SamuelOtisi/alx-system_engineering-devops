@@ -27,3 +27,9 @@ sudo chown betty hello
 12-directory_permissions - Create a script that creates a directory called dir_holberton with permissions 751 in the working directory.
 
 13-change_group - Write a script that changes the group owner to holberton for the file hello The file hello will be in the working directory
+
+101-symbolic_link_permissions - Write a script that changes the owner and the group owner of _hello to vincent and staff respectively
+
+16-if_only - Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory
+
+100-Star_Wars - Write a script that will play the StarWars IV episode in the terminal
